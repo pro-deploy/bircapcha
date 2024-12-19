@@ -17,4 +17,6 @@ RUN chmod -R 777 /app/data /app/logs
 
 WORKDIR /app
 
+EXPOSE 3000
+
 CMD ["python", "-u", "bot/main.py"]

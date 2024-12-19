@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  telegram_bot:
+    build: .
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./bot:/app/bot
+      - ./config:/app/config
+      - ./logs:/app/logs
+      - ./data:/app/data

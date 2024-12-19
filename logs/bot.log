@@ -1,0 +1,71 @@
+2024-12-18 23:37:25,052 - root - INFO - Бот запущен
+2024-12-18 23:37:40,107 - root - ERROR - Ошибка в работе бота: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getMe (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0xffff8cd9e0d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-12-18 23:39:58,158 - root - ERROR - Ошибка в работе бота: Sample larger than population or is negative
+2024-12-18 23:54:40,357 - CaptchaBot - INFO - Запуск бота
+2024-12-18 23:54:40,360 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-12-18 23:54:40,584 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getMe HTTP/11" 200 256
+2024-12-18 23:54:40,587 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-12-18 23:54:40,782 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 1923
+2024-12-18 23:55:00,883 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:55:20,964 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:55:41,044 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:56:01,201 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:56:21,292 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:56:41,393 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:57:01,506 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:57:21,599 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=451842590&timeout=20 HTTP/11" 200 23
+2024-12-18 23:57:25,591 - UserActivityTracker - INFO - База данных подключена
+2024-12-18 23:57:25,591 - CaptchaBot - INFO - Запуск бота
+2024-12-18 23:57:25,593 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-12-18 23:57:25,800 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getMe HTTP/11" 200 256
+2024-12-18 23:57:25,802 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-12-18 23:57:46,002 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-18 23:58:06,090 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-18 23:58:26,166 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-18 23:58:46,242 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-18 23:59:06,317 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-18 23:59:26,409 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-18 23:59:46,488 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:00:06,572 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:00:26,649 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:00:46,728 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:01:06,826 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:01:26,905 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:01:46,983 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:02:07,057 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:02:27,154 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:02:47,268 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:03:07,358 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:03:20,317 - UserActivityTracker - INFO - База данных подключена
+2024-12-19 00:03:20,317 - CaptchaBot - INFO - Запуск бота
+2024-12-19 00:03:20,319 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-12-19 00:03:20,520 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getMe HTTP/11" 200 256
+2024-12-19 00:03:20,523 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org:443
+2024-12-19 00:03:40,709 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:04:00,775 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:04:20,844 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:04:40,918 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:05:00,986 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:05:21,051 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:05:41,115 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:06:01,181 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:06:21,245 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:06:41,307 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:07:01,371 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:07:21,436 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:07:41,499 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:08:01,570 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:08:21,640 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:08:41,705 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:09:01,768 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:09:21,829 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:09:41,893 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:10:01,960 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:10:22,029 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:10:42,092 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:11:02,159 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:11:22,233 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:11:42,299 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:12:02,366 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:12:22,436 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23
+2024-12-19 00:12:42,513 - urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot7704920498:AAGJLfAEcV7h3l3aS4GvdBz01HkuucpgDpA/getUpdates?offset=1&timeout=20 HTTP/11" 200 23

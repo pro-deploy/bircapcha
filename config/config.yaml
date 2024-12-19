@@ -1,0 +1,32 @@
+objects:
+  - стол
+  - стул
+  - ложка
+  - вилка
+  - нож
+  - чашка
+
+emojis: 
+  стол:
+    - 🪑
+    - 🍽️
+    - 🏠
+    - 🧊
+    - 🚪
+  стул: 
+    - 🪑
+    - 🛋️
+    - 🏠
+    - 🧊
+    - 📚
+
+difficulty_levels:
+  easy:
+    objects_count: 5
+    time_limit: 60
+  medium:
+    objects_count: 10
+    time_limit: 45
+  hard:
+    objects_count: 15
+    time_limit: 30
